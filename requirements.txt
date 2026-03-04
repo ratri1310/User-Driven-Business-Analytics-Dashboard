@@ -1,0 +1,20 @@
+certifi==2024.8.30
+Flask==3.1.0
+folium==0.18.0
+geopy==2.4.1
+matplotlib==3.8.4
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pymongo==4.10.1
+redis==5.2.0
+regex==2024.9.11
+wordcloud==1.9.4
+
+# Along with these following inbuilt packages are needed: 
+# subprocess
+# json
+# re
+# os
+# ssl
+# collections
+# datetime
