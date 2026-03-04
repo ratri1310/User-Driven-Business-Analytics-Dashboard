@@ -1,4 +1,4 @@
-# **Final Project Repository for "User-Driven Business Analytics and Insights Dashboard" (Group 6)**
+# **Final Project Repository for "User-Driven Business Analytics and Insights Dashboard" **
 
 **Group Members:**  
 - Ratri Mukherjee  
